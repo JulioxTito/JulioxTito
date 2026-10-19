@@ -4,7 +4,7 @@
 
 ✧ I'm Julio Tito, an electrical & computer engineering graduate focused on hardware design, FPGA synthesis, and RTL architecture.
 
-✧ My interests include VLSI, Computer Architecture, Digital Signal Processing, PCB Layout, and electromechanical CAD.
+✧ My interests include VLSI, RTL, Computer Architecture, Digital Signal Processing, PCB Layout, and electromechanical CAD.
 
 ✧ This GitHub showcases my hardware projects, RTL implementations, and verification workflows.
 
