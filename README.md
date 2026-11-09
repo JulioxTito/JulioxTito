@@ -21,6 +21,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SOLIDWORKS-ED1C24?style=flat&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51010?style=flat&logo=autodesk&logoColor=white)
 
 ### Languages
 
